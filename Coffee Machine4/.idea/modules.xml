@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Coffee Machine/task/Coffee_Machine-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Coffee Machine/task/Coffee_Machine-task.iml" group="Coffee_Machine4/Coffee_Machine-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Coffee Machine/task/Coffee_Machine-task_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Coffee Machine/task/Coffee_Machine-task_main.iml" group="Coffee_Machine4/Coffee_Machine-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Coffee Machine/task/Coffee_Machine-task_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Coffee Machine/task/Coffee_Machine-task_test.iml" group="Coffee_Machine4/Coffee_Machine-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Coffee_Machine4.iml" filepath="$PROJECT_DIR$/.idea/modules/Coffee_Machine4.iml" group="Coffee_Machine4" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Fix the program/Problems-Fix_the_program.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Fix the program/Problems-Fix_the_program.iml" group="Coffee_Machine4/Problems-Fix_the_program" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Fix the program (1)/Problems-Fix_the_program__1_.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Fix the program (1)/Problems-Fix_the_program__1_.iml" group="Coffee_Machine4/Problems-Fix_the_program__1_" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Fix the program (1)/Problems-Fix_the_program__1__main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Fix the program (1)/Problems-Fix_the_program__1__main.iml" group="Coffee_Machine4/Problems-Fix_the_program__1_" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Fix the program (1)/Problems-Fix_the_program__1__test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Fix the program (1)/Problems-Fix_the_program__1__test.iml" group="Coffee_Machine4/Problems-Fix_the_program__1_" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Fix the program/Problems-Fix_the_program_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Fix the program/Problems-Fix_the_program_main.iml" group="Coffee_Machine4/Problems-Fix_the_program" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Fix the program/Problems-Fix_the_program_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Fix the program/Problems-Fix_the_program_test.iml" group="Coffee_Machine4/Problems-Fix_the_program" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Fixing the main method/Problems-Fixing_the_main_method.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Fixing the main method/Problems-Fixing_the_main_method.iml" group="Coffee_Machine4/Problems-Fixing_the_main_method" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Fixing the main method (1)/Problems-Fixing_the_main_method__1_.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Fixing the main method (1)/Problems-Fixing_the_main_method__1_.iml" group="Coffee_Machine4/Problems-Fixing_the_main_method__1_" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Fixing the main method (1)/Problems-Fixing_the_main_method__1__main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Fixing the main method (1)/Problems-Fixing_the_main_method__1__main.iml" group="Coffee_Machine4/Problems-Fixing_the_main_method__1_" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Fixing the main method (1)/Problems-Fixing_the_main_method__1__test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Fixing the main method (1)/Problems-Fixing_the_main_method__1__test.iml" group="Coffee_Machine4/Problems-Fixing_the_main_method__1_" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Fixing the main method/Problems-Fixing_the_main_method_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Fixing the main method/Problems-Fixing_the_main_method_main.iml" group="Coffee_Machine4/Problems-Fixing_the_main_method" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Fixing the main method/Problems-Fixing_the_main_method_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Fixing the main method/Problems-Fixing_the_main_method_test.iml" group="Coffee_Machine4/Problems-Fixing_the_main_method" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Print  We are robots!/Problems-Print__We_are_robots!.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Print  We are robots!/Problems-Print__We_are_robots!.iml" group="Coffee_Machine4/Problems-Print__We_are_robots!" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Print  We are robots!/Problems-Print__We_are_robots!_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Print  We are robots!/Problems-Print__We_are_robots!_main.iml" group="Coffee_Machine4/Problems-Print__We_are_robots!" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Print  We are robots!/Problems-Print__We_are_robots!_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Print  We are robots!/Problems-Print__We_are_robots!_test.iml" group="Coffee_Machine4/Problems-Print__We_are_robots!" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util.iml" group="Coffee_Machine4/util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_main.iml" group="Coffee_Machine4/util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_test.iml" group="Coffee_Machine4/util" />
+    </modules>
+  </component>
+</project>
