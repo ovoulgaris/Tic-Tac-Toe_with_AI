@@ -1,0 +1,729 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6218965b-154d-4444-a0d7-b3e0bd65b0c2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Animals/Animals.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BankingApplication/BankingApplication.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BillsBurgers/BillsBurgers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BnCGame/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BnCGame/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BnCGame/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BnCGame/BnCGame.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BnCGame/out/production/BnCGame/com/company/GameHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BnCGame/out/production/BnCGame/com/company/Grader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BnCGame/out/production/BnCGame/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BnCGame/src/com/company/GameHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BnCGame/src/com/company/Grader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bulls and Cows/.idea/modules/Bulls and Cows/task/Bulls_and_Cows.Bulls_and_Cows-task.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bulls and Cows/.idea/modules/Bulls and Cows/task/Bulls_and_Cows.Bulls_and_Cows-task.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bulls and Cows/.idea/modules/Bulls and Cows/task/Bulls_and_Cows.Bulls_and_Cows-task.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bulls and Cows/.idea/modules/Bulls_and_Cows.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bulls and Cows/.idea/modules/Problems/Boys in a sport class/Bulls_and_Cows.Problems-Boys_in_a_sport_class.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bulls and Cows/.idea/modules/Problems/Boys in a sport class/Bulls_and_Cows.Problems-Boys_in_a_sport_class.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bulls and Cows/.idea/modules/Problems/Boys in a sport class/Bulls_and_Cows.Problems-Boys_in_a_sport_class.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bulls and Cows/.idea/modules/Problems/Liquid pressure/Bulls_and_Cows.Problems-Liquid_pressure.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bulls and Cows/.idea/modules/Problems/Liquid pressure/Bulls_and_Cows.Problems-Liquid_pressure.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bulls and Cows/.idea/modules/Problems/Liquid pressure/Bulls_and_Cows.Problems-Liquid_pressure.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bulls and Cows/.idea/modules/util/Bulls_and_Cows.util.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bulls and Cows/.idea/modules/util/Bulls_and_Cows.util.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bulls and Cows/.idea/modules/util/Bulls_and_Cows.util.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bulls and Cows/Bulls and Cows/Error_/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bulls and Cows/Bulls and Cows/Error_/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bulls and Cows/Bulls and Cows/Game log/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bulls and Cows/Bulls and Cows/Game log/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bulls and Cows/Bulls and Cows/Game time_/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bulls and Cows/Bulls and Cows/Game time_/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bulls and Cows/Bulls and Cows/Grader/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bulls and Cows/Bulls and Cows/Grader/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bulls and Cows/Bulls and Cows/Improve the code generator/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bulls and Cows/Bulls and Cows/Improve the code generator/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bulls and Cows/Bulls and Cows/New level/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bulls and Cows/Bulls and Cows/New level/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bulls and Cows/Bulls and Cows/Secret code/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bulls and Cows/Bulls and Cows/Secret code/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bulls and Cows/Bulls and Cows/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bulls and Cows/Bulls and Cows/task/src/bullscows/GameHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bulls and Cows/Bulls and Cows/task/src/bullscows/Grader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bulls and Cows/Problems/Boys in a sport class/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bulls and Cows/Problems/Boys in a sport class/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bulls and Cows/Problems/Boys in a sport class/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bulls and Cows/Problems/Boys in a sport class/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bulls and Cows/Problems/Liquid pressure/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bulls and Cows/Problems/Liquid pressure/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bulls and Cows/Problems/Liquid pressure/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bulls and Cows/Problems/Liquid pressure/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bulls and Cows/Problems/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bulls and Cows/course-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bulls and Cows/course-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bulls and Cows/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bulls and Cows/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bulls and Cows/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bulls and Cows/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CesaerCipher/CesaerCipher.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.gradle/6.5/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.gradle/6.5/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.gradle/6.5/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.gradle/6.5/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.gradle/6.5/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.gradle/6.5/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.gradle/6.6.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.gradle/6.6.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.gradle/6.6.1/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.gradle/6.6.1/fileContent/fileContent.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.gradle/6.6.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.gradle/6.6.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.gradle/6.6.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.gradle/6.6.1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.gradle/6.6.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.gradle/6.6.1/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.gradle/6.6.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.gradle/6.6.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.gradle/checksums/md5-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.gradle/configuration-cache/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.idea/libraries/Gradle__com_cedarsoftware_json_io_4_10_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_core_2_9_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_databind_2_9_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.idea/libraries/Gradle__com_github_hyperskill_hs_test_release_SNAPSHOT.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.idea/libraries/Gradle__com_github_stefanbirkner_system_rules_1_19_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.idea/libraries/Gradle__com_google_code_gson_gson_2_8_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.idea/libraries/Gradle__commons_codec_commons_codec_1_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.idea/libraries/Gradle__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.idea/libraries/Gradle__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.idea/libraries/Gradle__org_apache_httpcomponents_httpclient_4_5_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.idea/libraries/Gradle__org_apache_httpcomponents_httpcore_4_4_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.idea/libraries/Gradle__org_assertj_assertj_core_3_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.idea/libraries/Gradle__org_assertj_assertj_swing_3_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.idea/libraries/Gradle__org_assertj_assertj_swing_junit_3_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.idea/libraries/Gradle__org_easytesting_fest_reflect_1_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.idea/libraries/Gradle__org_easytesting_fest_util_1_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.idea/modules/Cinema Room Manager/task/Cinema_Room_Manager.Cinema_Room_Manager-task.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.idea/modules/Cinema Room Manager/task/Cinema_Room_Manager.Cinema_Room_Manager-task.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.idea/modules/Cinema Room Manager/task/Cinema_Room_Manager.Cinema_Room_Manager-task.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.idea/modules/Cinema_Room_Manager.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.idea/modules/Problems/Check the sum/Cinema_Room_Manager.Problems-Check_the_sum.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.idea/modules/Problems/Check the sum/Cinema_Room_Manager.Problems-Check_the_sum.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.idea/modules/Problems/Check the sum/Cinema_Room_Manager.Problems-Check_the_sum.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.idea/modules/Problems/Circle/Cinema_Room_Manager.Problems-Circle.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.idea/modules/Problems/Circle/Cinema_Room_Manager.Problems-Circle.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.idea/modules/Problems/Circle/Cinema_Room_Manager.Problems-Circle.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.idea/modules/Problems/Grades/Cinema_Room_Manager.Problems-Grades.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.idea/modules/Problems/Grades/Cinema_Room_Manager.Problems-Grades.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.idea/modules/Problems/Grades/Cinema_Room_Manager.Problems-Grades.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.idea/modules/Problems/Out of bounds_/Cinema_Room_Manager.Problems-Out_of_bounds_.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.idea/modules/Problems/Out of bounds_/Cinema_Room_Manager.Problems-Out_of_bounds_.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.idea/modules/Problems/Out of bounds_/Cinema_Room_Manager.Problems-Out_of_bounds_.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.idea/modules/util/Cinema_Room_Manager.util.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.idea/modules/util/Cinema_Room_Manager.util.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.idea/modules/util/Cinema_Room_Manager.util.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/Cinema Room Manager/Arrangement/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/Cinema Room Manager/Arrangement/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/Cinema Room Manager/Arrangement/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/Cinema Room Manager/Errors_/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/Cinema Room Manager/Errors_/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/Cinema Room Manager/Errors_/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/Cinema Room Manager/Menu, please_/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/Cinema Room Manager/Menu, please_/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/Cinema Room Manager/Menu, please_/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/Cinema Room Manager/Sold_/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/Cinema Room Manager/Sold_/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/Cinema Room Manager/Sold_/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/Cinema Room Manager/Tickets/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/Cinema Room Manager/Tickets/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/Cinema Room Manager/Tickets/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/Cinema Room Manager/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/Cinema Room Manager/task/build/classes/java/main/cinema/Cinema.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/Cinema Room Manager/task/build/classes/java/main/cinema/ScreenRoom.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/Cinema Room Manager/task/build/classes/java/main/cinema/Seat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/Cinema Room Manager/task/build/classes/java/test/CinemaTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/Cinema Room Manager/task/build/reports/tests/test/classes/CinemaTests.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/Cinema Room Manager/task/build/reports/tests/test/css/base-style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/Cinema Room Manager/task/build/reports/tests/test/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/Cinema Room Manager/task/build/reports/tests/test/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/Cinema Room Manager/task/build/reports/tests/test/js/report.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/Cinema Room Manager/task/build/reports/tests/test/packages/default-package.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/Cinema Room Manager/task/build/test-results/test/TEST-CinemaTests.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/Cinema Room Manager/task/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/Cinema Room Manager/task/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/Cinema Room Manager/task/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/Cinema Room Manager/task/build/tmp/compileJava/source-classes-mapping.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/Cinema Room Manager/task/build/tmp/compileTestJava/source-classes-mapping.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/Cinema Room Manager/task/build/tmp/test/jar_extract_10118212382849953936_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/Cinema Room Manager/task/build/tmp/test/jar_extract_11005925331510262183_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/Cinema Room Manager/task/build/tmp/test/jar_extract_11064013191526882657_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/Cinema Room Manager/task/build/tmp/test/jar_extract_1110152106186711058_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/Cinema Room Manager/task/build/tmp/test/jar_extract_11254610676295174371_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/Cinema Room Manager/task/build/tmp/test/jar_extract_11273369348220033353_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/Cinema Room Manager/task/build/tmp/test/jar_extract_11725768123364511292_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/Cinema Room Manager/task/build/tmp/test/jar_extract_11733279840746096822_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/Cinema Room Manager/task/build/tmp/test/jar_extract_12564228748154188907_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/Cinema Room Manager/task/build/tmp/test/jar_extract_13186009464405672404_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/Cinema Room Manager/task/build/tmp/test/jar_extract_13298981386616549066_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/Cinema Room Manager/task/build/tmp/test/jar_extract_14309389895851673026_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/Cinema Room Manager/task/build/tmp/test/jar_extract_14444604823912807040_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/Cinema Room Manager/task/build/tmp/test/jar_extract_14499308998653156122_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/Cinema Room Manager/task/build/tmp/test/jar_extract_14637900893526584160_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/Cinema Room Manager/task/build/tmp/test/jar_extract_14790682643997375823_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/Cinema Room Manager/task/build/tmp/test/jar_extract_15482935784125715865_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/Cinema Room Manager/task/build/tmp/test/jar_extract_15601513548907438569_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/Cinema Room Manager/task/build/tmp/test/jar_extract_15963504701119390670_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/Cinema Room Manager/task/build/tmp/test/jar_extract_16278520252795685033_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/Cinema Room Manager/task/build/tmp/test/jar_extract_1650922546417184805_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/Cinema Room Manager/task/build/tmp/test/jar_extract_17763614604767408322_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/Cinema Room Manager/task/build/tmp/test/jar_extract_17947492455473941585_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/Cinema Room Manager/task/build/tmp/test/jar_extract_18246038144964054624_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/Cinema Room Manager/task/build/tmp/test/jar_extract_193238355864892639_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/Cinema Room Manager/task/build/tmp/test/jar_extract_4273745460200310915_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/Cinema Room Manager/task/build/tmp/test/jar_extract_4465829640093736915_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/Cinema Room Manager/task/build/tmp/test/jar_extract_4582646504755799376_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/Cinema Room Manager/task/build/tmp/test/jar_extract_4700625816130008072_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/Cinema Room Manager/task/build/tmp/test/jar_extract_4781162002028917242_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/Cinema Room Manager/task/build/tmp/test/jar_extract_5449839876883231815_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/Cinema Room Manager/task/build/tmp/test/jar_extract_5512788981595544300_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/Cinema Room Manager/task/build/tmp/test/jar_extract_6137814542755276185_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/Cinema Room Manager/task/build/tmp/test/jar_extract_6289762433466354767_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/Cinema Room Manager/task/build/tmp/test/jar_extract_652309052502899013_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/Cinema Room Manager/task/build/tmp/test/jar_extract_7309051039312557057_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/Cinema Room Manager/task/build/tmp/test/jar_extract_8298387773760337655_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/Cinema Room Manager/task/build/tmp/test/jar_extract_8734387355383097557_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/Cinema Room Manager/task/build/tmp/test/jar_extract_9068265879628571279_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/Cinema Room Manager/task/build/tmp/test/jar_extract_9093312149112402560_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/Cinema Room Manager/task/build/tmp/test/jar_extract_9108228799788652866_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/Cinema Room Manager/task/build/tmp/test/jar_extract_9228803263395074408_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/Cinema Room Manager/task/build/tmp/test/jar_extract_9627332388076553201_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/Cinema Room Manager/task/build/tmp/test/jar_extract_9659152345518580043_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/Cinema Room Manager/task/src/cinema/Cinema.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/Cinema Room Manager/task/src/cinema/ScreenRoom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/Cinema Room Manager/task/src/cinema/Seat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/Cinema Room Manager/task/test/CinemaTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/Problems/Check the sum/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/Problems/Check the sum/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/Problems/Check the sum/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/Problems/Check the sum/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/Problems/Circle/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/Problems/Circle/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/Problems/Circle/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/Problems/Circle/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/Problems/Grades/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/Problems/Grades/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/Problems/Grades/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/Problems/Grades/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/Problems/Out of bounds_/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/Problems/Out of bounds_/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/Problems/Out of bounds_/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/Problems/Out of bounds_/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/Problems/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/course-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/course-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cinema Room Manager/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CinemaRoomManager/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CinemaRoomManager/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CinemaRoomManager/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CinemaRoomManager/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CinemaRoomManager/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CinemaRoomManager/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CinemaRoomManager/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CinemaRoomManager/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CinemaRoomManager/CinemaRoomManager.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CinemaRoomManager/out/production/CinemaRoomManager/com/company/Cinema.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CinemaRoomManager/out/production/CinemaRoomManager/com/company/ScreenRoom.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CinemaRoomManager/out/production/CinemaRoomManager/com/company/Seat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CinemaRoomManager/src/com/company/ScreenRoom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CinemaRoomManager/src/com/company/Seat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cipher/Cipher.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cipher/untitled104.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine4/.idea/modules/Problems/Fix the program (1)/Problems-Fix_the_program__1_.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine4/.idea/modules/Problems/Fix the program (1)/Problems-Fix_the_program__1__main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine4/.idea/modules/Problems/Fix the program (1)/Problems-Fix_the_program__1__test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine4/.idea/modules/Problems/Fixing the main method (1)/Problems-Fixing_the_main_method__1_.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine4/.idea/modules/Problems/Fixing the main method (1)/Problems-Fixing_the_main_method__1__main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine4/.idea/modules/Problems/Fixing the main method (1)/Problems-Fixing_the_main_method__1__test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine4/.idea/modules/Problems/Fixing the main method/Problems-Fixing_the_main_method.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine4/.idea/modules/Problems/Fixing the main method/Problems-Fixing_the_main_method_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine4/.idea/modules/Problems/Fixing the main method/Problems-Fixing_the_main_method_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine4/.idea/modules/Problems/Print  We are robots!/Problems-Print__We_are_robots!.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine4/.idea/modules/Problems/Print  We are robots!/Problems-Print__We_are_robots!_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine4/.idea/modules/Problems/Print  We are robots!/Problems-Print__We_are_robots!_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine5/.idea/modules/Coffee Machine/task/Coffee_Machine-task.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine5/.idea/modules/Coffee Machine/task/Coffee_Machine-task_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine5/.idea/modules/Coffee Machine/task/Coffee_Machine-task_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine5/.idea/modules/Coffee_Machine5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine5/.idea/modules/Problems/Adding values/Problems-Adding_values.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine5/.idea/modules/Problems/Adding values/Problems-Adding_values_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine5/.idea/modules/Problems/Adding values/Problems-Adding_values_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine5/.idea/modules/util/util.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine5/.idea/modules/util/util_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine5/.idea/modules/util/util_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine6/.idea/modules/Coffee Machine/task/Coffee_Machine-task.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine6/.idea/modules/Coffee Machine/task/Coffee_Machine-task_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine6/.idea/modules/Coffee Machine/task/Coffee_Machine-task_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine6/.idea/modules/Coffee_Machine6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine6/.idea/modules/Problems/Adding values/Problems-Adding_values.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine6/.idea/modules/Problems/Adding values/Problems-Adding_values_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine6/.idea/modules/Problems/Adding values/Problems-Adding_values_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine6/.idea/modules/Problems/Get first and last elements/Problems-Get_first_and_last_elements.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine6/.idea/modules/Problems/Get first and last elements/Problems-Get_first_and_last_elements_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine6/.idea/modules/Problems/Get first and last elements/Problems-Get_first_and_last_elements_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine6/.idea/modules/Problems/Sorting numbers/Problems-Sorting_numbers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine6/.idea/modules/Problems/Sorting numbers/Problems-Sorting_numbers_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine6/.idea/modules/Problems/Sorting numbers/Problems-Sorting_numbers_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine6/.idea/modules/util/util.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine6/.idea/modules/util/util_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coffee Machine6/.idea/modules/util/util_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Encryption-Decryption/.idea/modules/Encryption-Decryption.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Encryption-Decryption/.idea/modules/Encryption-Decryption/task/Encryption-Decryption-task.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Encryption-Decryption/.idea/modules/Encryption-Decryption/task/Encryption-Decryption-task_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Encryption-Decryption/.idea/modules/Encryption-Decryption/task/Encryption-Decryption-task_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Encryption-Decryption/.idea/modules/Problems (1)/Reverse input text/Problems__1_-Reverse_input_text.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Encryption-Decryption/.idea/modules/Problems (1)/Reverse input text/Problems__1_-Reverse_input_text_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Encryption-Decryption/.idea/modules/Problems (1)/Reverse input text/Problems__1_-Reverse_input_text_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Encryption-Decryption/.idea/modules/Problems (2)/Reverse input text/Problems__2_-Reverse_input_text.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Encryption-Decryption/.idea/modules/Problems (2)/Reverse input text/Problems__2_-Reverse_input_text_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Encryption-Decryption/.idea/modules/Problems (2)/Reverse input text/Problems__2_-Reverse_input_text_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Encryption-Decryption/.idea/modules/Problems (3)/Convert to bytes/Problems__3_-Convert_to_bytes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Encryption-Decryption/.idea/modules/Problems (3)/Convert to bytes/Problems__3_-Convert_to_bytes_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Encryption-Decryption/.idea/modules/Problems (3)/Convert to bytes/Problems__3_-Convert_to_bytes_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Encryption-Decryption/.idea/modules/Problems (4)/Count words/Problems__4_-Count_words.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Encryption-Decryption/.idea/modules/Problems (4)/Count words/Problems__4_-Count_words_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Encryption-Decryption/.idea/modules/Problems (4)/Count words/Problems__4_-Count_words_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Encryption-Decryption/.idea/modules/Problems (5)/Reverse input text/Problems__5_-Reverse_input_text.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Encryption-Decryption/.idea/modules/Problems (5)/Reverse input text/Problems__5_-Reverse_input_text_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Encryption-Decryption/.idea/modules/Problems (5)/Reverse input text/Problems__5_-Reverse_input_text_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Encryption-Decryption/.idea/modules/Problems/Avoid division by zero/Problems-Avoid_division_by_zero.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Encryption-Decryption/.idea/modules/Problems/Avoid division by zero/Problems-Avoid_division_by_zero_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Encryption-Decryption/.idea/modules/Problems/Avoid division by zero/Problems-Avoid_division_by_zero_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Encryption-Decryption/.idea/modules/util/util.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Encryption-Decryption/.idea/modules/util/util_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Encryption-Decryption/.idea/modules/util/util_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Encryption-Decryption1/.idea/libraries/Gradle__com_github_hyperskill_hs_test_release_SNAPSHOT.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Encryption-Decryption1/.idea/modules/Encryption-Decryption/task/Encryption-Decryption1.Encryption-Decryption-task.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Encryption-Decryption1/.idea/modules/Encryption-Decryption/task/Encryption-Decryption1.Encryption-Decryption-task.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Encryption-Decryption1/.idea/modules/Encryption-Decryption/task/Encryption-Decryption1.Encryption-Decryption-task.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Encryption-Decryption1/.idea/modules/Encryption-Decryption1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Encryption-Decryption1/.idea/modules/Problems/Account Service/Encryption-Decryption1.Problems-Account_Service.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Encryption-Decryption1/.idea/modules/Problems/Account Service/Encryption-Decryption1.Problems-Account_Service.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Encryption-Decryption1/.idea/modules/Problems/Account Service/Encryption-Decryption1.Problems-Account_Service.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Encryption-Decryption1/.idea/modules/Problems/Bank account/Encryption-Decryption1.Problems-Bank_account.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Encryption-Decryption1/.idea/modules/Problems/Bank account/Encryption-Decryption1.Problems-Bank_account.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Encryption-Decryption1/.idea/modules/Problems/Bank account/Encryption-Decryption1.Problems-Bank_account.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Encryption-Decryption1/.idea/modules/Problems/Employee/Encryption-Decryption1.Problems-Employee.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Encryption-Decryption1/.idea/modules/Problems/Employee/Encryption-Decryption1.Problems-Employee.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Encryption-Decryption1/.idea/modules/Problems/Employee/Encryption-Decryption1.Problems-Employee.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Encryption-Decryption1/.idea/modules/Problems/Employees/Encryption-Decryption1.Problems-Employees.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Encryption-Decryption1/.idea/modules/Problems/Employees/Encryption-Decryption1.Problems-Employees.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Encryption-Decryption1/.idea/modules/Problems/Employees/Encryption-Decryption1.Problems-Employees.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Encryption-Decryption1/.idea/modules/Problems/Find mistake/Encryption-Decryption1.Problems-Find_mistake.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Encryption-Decryption1/.idea/modules/Problems/Find mistake/Encryption-Decryption1.Problems-Find_mistake.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Encryption-Decryption1/.idea/modules/Problems/Find mistake/Encryption-Decryption1.Problems-Find_mistake.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Encryption-Decryption1/.idea/modules/Problems/Harry Potter/Encryption-Decryption1.Problems-Harry_Potter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Encryption-Decryption1/.idea/modules/Problems/Harry Potter/Encryption-Decryption1.Problems-Harry_Potter.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Encryption-Decryption1/.idea/modules/Problems/Harry Potter/Encryption-Decryption1.Problems-Harry_Potter.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Encryption-Decryption1/.idea/modules/Problems/IntBinaryOperation/Encryption-Decryption1.Problems-IntBinaryOperation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Encryption-Decryption1/.idea/modules/Problems/IntBinaryOperation/Encryption-Decryption1.Problems-IntBinaryOperation.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Encryption-Decryption1/.idea/modules/Problems/IntBinaryOperation/Encryption-Decryption1.Problems-IntBinaryOperation.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Encryption-Decryption1/.idea/modules/Problems/Movie/Encryption-Decryption1.Problems-Movie.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Encryption-Decryption1/.idea/modules/Problems/Movie/Encryption-Decryption1.Problems-Movie.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Encryption-Decryption1/.idea/modules/Problems/Movie/Encryption-Decryption1.Problems-Movie.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Encryption-Decryption1/.idea/modules/Problems/Mutable geometric shapes/Encryption-Decryption1.Problems-Mutable_geometric_shapes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Encryption-Decryption1/.idea/modules/Problems/Mutable geometric shapes/Encryption-Decryption1.Problems-Mutable_geometric_shapes.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Encryption-Decryption1/.idea/modules/Problems/Mutable geometric shapes/Encryption-Decryption1.Problems-Mutable_geometric_shapes.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Encryption-Decryption1/.idea/modules/Problems/Publication and its subclasses/Encryption-Decryption1.Problems-Publication_and_its_subclasses.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Encryption-Decryption1/.idea/modules/Problems/Publication and its subclasses/Encryption-Decryption1.Problems-Publication_and_its_subclasses.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Encryption-Decryption1/.idea/modules/Problems/Publication and its subclasses/Encryption-Decryption1.Problems-Publication_and_its_subclasses.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Encryption-Decryption1/.idea/modules/Problems/Publications/Encryption-Decryption1.Problems-Publications.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Encryption-Decryption1/.idea/modules/Problems/Publications/Encryption-Decryption1.Problems-Publications.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Encryption-Decryption1/.idea/modules/Problems/Publications/Encryption-Decryption1.Problems-Publications.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Encryption-Decryption1/.idea/modules/Problems/Saying animals/Encryption-Decryption1.Problems-Saying_animals.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Encryption-Decryption1/.idea/modules/Problems/Saying animals/Encryption-Decryption1.Problems-Saying_animals.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Encryption-Decryption1/.idea/modules/Problems/Saying animals/Encryption-Decryption1.Problems-Saying_animals.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Encryption-Decryption1/.idea/modules/Problems/Shape hierarchy/Encryption-Decryption1.Problems-Shape_hierarchy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Encryption-Decryption1/.idea/modules/Problems/Shape hierarchy/Encryption-Decryption1.Problems-Shape_hierarchy.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Encryption-Decryption1/.idea/modules/Problems/Shape hierarchy/Encryption-Decryption1.Problems-Shape_hierarchy.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Encryption-Decryption1/.idea/modules/Problems/Shapes area/Encryption-Decryption1.Problems-Shapes_area.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Encryption-Decryption1/.idea/modules/Problems/Shapes area/Encryption-Decryption1.Problems-Shapes_area.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Encryption-Decryption1/.idea/modules/Problems/Shapes area/Encryption-Decryption1.Problems-Shapes_area.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Encryption-Decryption1/.idea/modules/Problems/Time/Encryption-Decryption1.Problems-Time.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Encryption-Decryption1/.idea/modules/Problems/Time/Encryption-Decryption1.Problems-Time.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Encryption-Decryption1/.idea/modules/Problems/Time/Encryption-Decryption1.Problems-Time.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Encryption-Decryption1/.idea/modules/Problems/Users and WebSites/Encryption-Decryption1.Problems-Users_and_WebSites.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Encryption-Decryption1/.idea/modules/Problems/Users and WebSites/Encryption-Decryption1.Problems-Users_and_WebSites.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Encryption-Decryption1/.idea/modules/Problems/Users and WebSites/Encryption-Decryption1.Problems-Users_and_WebSites.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Encryption-Decryption1/.idea/modules/util/Encryption-Decryption1.util.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Encryption-Decryption1/.idea/modules/util/Encryption-Decryption1.util.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Encryption-Decryption1/.idea/modules/util/Encryption-Decryption1.util.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FactorEx/FactorEx.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FactorExer/FactorExer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Flashcards/.idea/modules/Flashcards.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Flashcards/.idea/modules/Flashcards/task/Flashcards-task.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Flashcards/.idea/modules/Flashcards/task/Flashcards-task_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Flashcards/.idea/modules/Flashcards/task/Flashcards-task_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Flashcards/.idea/modules/Problems/Boxes are not just objects!/Problems-Boxes_are_not_just_objects!.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Flashcards/.idea/modules/Problems/Boxes are not just objects!/Problems-Boxes_are_not_just_objects!_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Flashcards/.idea/modules/Problems/Boxes are not just objects!/Problems-Boxes_are_not_just_objects!_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Flashcards/.idea/modules/Problems/Check a number is positive/Problems-Check_a_number_is_positive.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Flashcards/.idea/modules/Problems/Check a number is positive/Problems-Check_a_number_is_positive_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Flashcards/.idea/modules/Problems/Check a number is positive/Problems-Check_a_number_is_positive_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Flashcards/.idea/modules/Problems/Creating a map/Problems-Creating_a_map.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Flashcards/.idea/modules/Problems/Creating a map/Problems-Creating_a_map_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Flashcards/.idea/modules/Problems/Creating a map/Problems-Creating_a_map_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Flashcards/.idea/modules/Problems/Displaying pairs/Problems-Displaying_pairs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Flashcards/.idea/modules/Problems/Displaying pairs/Problems-Displaying_pairs_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Flashcards/.idea/modules/Problems/Displaying pairs/Problems-Displaying_pairs_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Flashcards/.idea/modules/Problems/Find the seed/Problems-Find_the_seed.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Flashcards/.idea/modules/Problems/Find the seed/Problems-Find_the_seed_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Flashcards/.idea/modules/Problems/Find the seed/Problems-Find_the_seed_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Flashcards/.idea/modules/Problems/Getting the fullname/Problems-Getting_the_fullname.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Flashcards/.idea/modules/Problems/Getting the fullname/Problems-Getting_the_fullname_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Flashcards/.idea/modules/Problems/Getting the fullname/Problems-Getting_the_fullname_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Flashcards/.idea/modules/Problems/Modifying a map/Problems-Modifying_a_map.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Flashcards/.idea/modules/Problems/Modifying a map/Problems-Modifying_a_map_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Flashcards/.idea/modules/Problems/Modifying a map/Problems-Modifying_a_map_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Flashcards/.idea/modules/Problems/Numbers divisible by six/Problems-Numbers_divisible_by_six.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Flashcards/.idea/modules/Problems/Numbers divisible by six/Problems-Numbers_divisible_by_six_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Flashcards/.idea/modules/Problems/Numbers divisible by six/Problems-Numbers_divisible_by_six_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Flashcards/.idea/modules/Problems/Pastry packing optimization/Problems-Pastry_packing_optimization.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Flashcards/.idea/modules/Problems/Pastry packing optimization/Problems-Pastry_packing_optimization_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Flashcards/.idea/modules/Problems/Pastry packing optimization/Problems-Pastry_packing_optimization_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Flashcards/.idea/modules/Problems/Removing elements/Problems-Removing_elements.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Flashcards/.idea/modules/Problems/Removing elements/Problems-Removing_elements_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Flashcards/.idea/modules/Problems/Removing elements/Problems-Removing_elements_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Flashcards/.idea/modules/Problems/Squirrels and nuts/Problems-Squirrels_and_nuts.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Flashcards/.idea/modules/Problems/Squirrels and nuts/Problems-Squirrels_and_nuts_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Flashcards/.idea/modules/Problems/Squirrels and nuts/Problems-Squirrels_and_nuts_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Flashcards/.idea/modules/Problems/The sequence/Problems-The_sequence.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Flashcards/.idea/modules/Problems/The sequence/Problems-The_sequence_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Flashcards/.idea/modules/Problems/The sequence/Problems-The_sequence_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Flashcards/.idea/modules/Problems/Tricky sub-maps/Problems-Tricky_sub-maps.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Flashcards/.idea/modules/Problems/Tricky sub-maps/Problems-Tricky_sub-maps_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Flashcards/.idea/modules/Problems/Tricky sub-maps/Problems-Tricky_sub-maps_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Flashcards/.idea/modules/util/util.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Flashcards/.idea/modules/util/util_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Flashcards/.idea/modules/util/util_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FootballTeams/FootballTeams.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Game/Game.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Guysandgames/Guysandgames.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KrimiThread/KrimiThread.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../List/List.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MobilePhone/MobilePhone.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OdyJava/OdyJava.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../People/People.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Persons/Persons.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/Project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/frameworkLessonHistory/storage.storageData" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/frameworkLessonHistory/storage.storageRecordIndex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/modules/Readability Score/task/Readability_Score-task.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/modules/Readability Score/task/Readability_Score-task_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/modules/Readability Score/task/Readability_Score-task_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/modules/Readability_Score.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/modules/util/util.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/modules/util/util_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/.idea/modules/util/util_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Readability Score/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot1/.idea/modules/Simple Chatty Bot/task/Simple_Chatty_Bot-task.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot1/.idea/modules/Simple Chatty Bot/task/Simple_Chatty_Bot-task_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot1/.idea/modules/Simple Chatty Bot/task/Simple_Chatty_Bot-task_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot1/.idea/modules/Simple_Chatty_Bot1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot1/.idea/modules/util/util.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot1/.idea/modules/util/util_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot1/.idea/modules/util/util_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot2/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot2/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot2/.idea/frameworkLessonHistory/storage.storageData" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot2/.idea/frameworkLessonHistory/storage.storageRecordIndex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot2/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot2/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot2/.idea/libraries/Gradle__com_cedarsoftware_json_io_4_10_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot2/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot2/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_core_2_9_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot2/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_databind_2_9_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot2/.idea/libraries/Gradle__com_github_stefanbirkner_system_rules_1_19_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot2/.idea/libraries/Gradle__com_google_code_gson_gson_2_8_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot2/.idea/libraries/Gradle__commons_codec_commons_codec_1_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot2/.idea/libraries/Gradle__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot2/.idea/libraries/Gradle__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot2/.idea/libraries/Gradle__org_apache_httpcomponents_httpclient_4_5_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot2/.idea/libraries/Gradle__org_apache_httpcomponents_httpcore_4_4_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot2/.idea/libraries/Gradle__org_assertj_assertj_core_3_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot2/.idea/libraries/Gradle__org_assertj_assertj_swing_3_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot2/.idea/libraries/Gradle__org_assertj_assertj_swing_junit_3_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot2/.idea/libraries/Gradle__org_easytesting_fest_reflect_1_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot2/.idea/libraries/Gradle__org_easytesting_fest_util_1_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot2/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot2/.idea/modules/Problems/Arithmetic average/Simple_Chatty_Bot2.Problems-Arithmetic_average.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot2/.idea/modules/Problems/Arithmetic average/Simple_Chatty_Bot2.Problems-Arithmetic_average.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot2/.idea/modules/Problems/Arithmetic average/Simple_Chatty_Bot2.Problems-Arithmetic_average.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot2/.idea/modules/Simple Chatty Bot/task/Simple_Chatty_Bot2.Simple_Chatty_Bot-task.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot2/.idea/modules/Simple Chatty Bot/task/Simple_Chatty_Bot2.Simple_Chatty_Bot-task.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot2/.idea/modules/Simple Chatty Bot/task/Simple_Chatty_Bot2.Simple_Chatty_Bot-task.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot2/.idea/modules/Simple_Chatty_Bot2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot2/.idea/modules/util/Simple_Chatty_Bot2.util.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot2/.idea/modules/util/Simple_Chatty_Bot2.util.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot2/.idea/modules/util/Simple_Chatty_Bot2.util.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot2/Problems/Arithmetic average/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot2/Problems/Arithmetic average/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot2/Problems/Arithmetic average/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot2/Problems/Arithmetic average/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot2/Problems/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot2/Simple Chatty Bot/Hello! What’s your name/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot2/Simple Chatty Bot/How old are you/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot2/Simple Chatty Bot/How old are you/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot2/Simple Chatty Bot/Let’s count!/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot2/Simple Chatty Bot/Let’s count!/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot2/Simple Chatty Bot/The student and the teacher/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot2/Simple Chatty Bot/The student and the teacher/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot2/Simple Chatty Bot/What's my name/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot2/Simple Chatty Bot/What's my name/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot2/Simple Chatty Bot/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot2/Simple Chatty Bot/task/build/tmp/compileJava/source-classes-mapping.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot2/Simple Chatty Bot/task/build/tmp/compileTestJava/source-classes-mapping.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot2/course-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/untitled104.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/.idea/frameworkLessonHistory/storage.storageRecordIndex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/.idea/modules/Problems/Account Service/Tic-Tac-Toe.Problems-Account_Service.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/.idea/modules/Problems/Account Service/Tic-Tac-Toe.Problems-Account_Service.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/.idea/modules/Problems/Account Service/Tic-Tac-Toe.Problems-Account_Service.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/.idea/modules/Problems/Book/Tic-Tac-Toe.Problems-Book.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/.idea/modules/Problems/Book/Tic-Tac-Toe.Problems-Book.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/.idea/modules/Problems/Book/Tic-Tac-Toe.Problems-Book.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/.idea/modules/Problems/Check if an array contains two numbers/Tic-Tac-Toe.Problems-Check_if_an_array_contains_two_numbers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/.idea/modules/Problems/Check if an array contains two numbers/Tic-Tac-Toe.Problems-Check_if_an_array_contains_two_numbers.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/.idea/modules/Problems/Check if an array contains two numbers/Tic-Tac-Toe.Problems-Check_if_an_array_contains_two_numbers.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/.idea/modules/Problems/Check prefix ignoring the case/Tic-Tac-Toe.Problems-Check_prefix_ignoring_the_case.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/.idea/modules/Problems/Check prefix ignoring the case/Tic-Tac-Toe.Problems-Check_prefix_ignoring_the_case.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/.idea/modules/Problems/Check prefix ignoring the case/Tic-Tac-Toe.Problems-Check_prefix_ignoring_the_case.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/.idea/modules/Problems/Clock factory/Tic-Tac-Toe.Problems-Clock_factory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/.idea/modules/Problems/Clock factory/Tic-Tac-Toe.Problems-Clock_factory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/.idea/modules/Problems/Clock factory/Tic-Tac-Toe.Problems-Clock_factory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/.idea/modules/Problems/Compact strings with AsciiCharSequence/Tic-Tac-Toe.Problems-Compact_strings_with_AsciiCharSequence.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/.idea/modules/Problems/Compact strings with AsciiCharSequence/Tic-Tac-Toe.Problems-Compact_strings_with_AsciiCharSequence.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/.idea/modules/Problems/Compact strings with AsciiCharSequence/Tic-Tac-Toe.Problems-Compact_strings_with_AsciiCharSequence.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/.idea/modules/Problems/Counting words/Tic-Tac-Toe.Problems-Counting_words.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/.idea/modules/Problems/Counting words/Tic-Tac-Toe.Problems-Counting_words.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/.idea/modules/Problems/Counting words/Tic-Tac-Toe.Problems-Counting_words.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/.idea/modules/Problems/Digits from 0 to 9 in a single line/Tic-Tac-Toe.Problems-Digits_from_0_to_9_in_a_single_line.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/.idea/modules/Problems/Digits from 0 to 9 in a single line/Tic-Tac-Toe.Problems-Digits_from_0_to_9_in_a_single_line.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/.idea/modules/Problems/Digits from 0 to 9 in a single line/Tic-Tac-Toe.Problems-Digits_from_0_to_9_in_a_single_line.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/.idea/modules/Problems/Getting current thread info/Tic-Tac-Toe.Problems-Getting_current_thread_info.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/.idea/modules/Problems/Getting current thread info/Tic-Tac-Toe.Problems-Getting_current_thread_info.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/.idea/modules/Problems/Getting current thread info/Tic-Tac-Toe.Problems-Getting_current_thread_info.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/.idea/modules/Problems/In a box/Tic-Tac-Toe.Problems-In_a_box.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/.idea/modules/Problems/In a box/Tic-Tac-Toe.Problems-In_a_box.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/.idea/modules/Problems/In a box/Tic-Tac-Toe.Problems-In_a_box.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/.idea/modules/Problems/Laptop store/Tic-Tac-Toe.Problems-Laptop_store.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/.idea/modules/Problems/Laptop store/Tic-Tac-Toe.Problems-Laptop_store.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/.idea/modules/Problems/Laptop store/Tic-Tac-Toe.Problems-Laptop_store.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/.idea/modules/Problems/Message notifier as a thread/Tic-Tac-Toe.Problems-Message_notifier_as_a_thread.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/.idea/modules/Problems/Message notifier as a thread/Tic-Tac-Toe.Problems-Message_notifier_as_a_thread.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/.idea/modules/Problems/Message notifier as a thread/Tic-Tac-Toe.Problems-Message_notifier_as_a_thread.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/.idea/modules/Problems/Motor static factory/Tic-Tac-Toe.Problems-Motor_static_factory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/.idea/modules/Problems/Motor static factory/Tic-Tac-Toe.Problems-Motor_static_factory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/.idea/modules/Problems/Motor static factory/Tic-Tac-Toe.Problems-Motor_static_factory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/.idea/modules/Problems/Motors/Tic-Tac-Toe.Problems-Motors.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/.idea/modules/Problems/Motors/Tic-Tac-Toe.Problems-Motors.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/.idea/modules/Problems/Motors/Tic-Tac-Toe.Problems-Motors.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/.idea/modules/Problems/Multiple threads/Tic-Tac-Toe.Problems-Multiple_threads.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/.idea/modules/Problems/Multiple threads/Tic-Tac-Toe.Problems-Multiple_threads.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/.idea/modules/Problems/Multiple threads/Tic-Tac-Toe.Problems-Multiple_threads.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/.idea/modules/Problems/Next even number/Tic-Tac-Toe.Problems-Next_even_number.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/.idea/modules/Problems/Next even number/Tic-Tac-Toe.Problems-Next_even_number.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/.idea/modules/Problems/Next even number/Tic-Tac-Toe.Problems-Next_even_number.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/.idea/modules/Problems/Numbers filter/Tic-Tac-Toe.Problems-Numbers_filter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/.idea/modules/Problems/Numbers filter/Tic-Tac-Toe.Problems-Numbers_filter.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/.idea/modules/Problems/Numbers filter/Tic-Tac-Toe.Problems-Numbers_filter.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/.idea/modules/Problems/Pick your team/Tic-Tac-Toe.Problems-Pick_your_team.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/.idea/modules/Problems/Pick your team/Tic-Tac-Toe.Problems-Pick_your_team.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/.idea/modules/Problems/Pick your team/Tic-Tac-Toe.Problems-Pick_your_team.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/.idea/modules/Problems/Robot/Tic-Tac-Toe.Problems-Robot.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/.idea/modules/Problems/Robot/Tic-Tac-Toe.Problems-Robot.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/.idea/modules/Problems/Robot/Tic-Tac-Toe.Problems-Robot.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/.idea/modules/Problems/Static factory methods for Time/Tic-Tac-Toe.Problems-Static_factory_methods_for_Time.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/.idea/modules/Problems/Static factory methods for Time/Tic-Tac-Toe.Problems-Static_factory_methods_for_Time.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/.idea/modules/Problems/Static factory methods for Time/Tic-Tac-Toe.Problems-Static_factory_methods_for_Time.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/.idea/modules/Problems/The army of units/Tic-Tac-Toe.Problems-The_army_of_units.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/.idea/modules/Problems/The army of units/Tic-Tac-Toe.Problems-The_army_of_units.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/.idea/modules/Problems/The army of units/Tic-Tac-Toe.Problems-The_army_of_units.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/.idea/modules/Tic-Tac-Toe.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/.idea/modules/Tic-Tac-Toe/task/Tic-Tac-Toe.Tic-Tac-Toe-task.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/.idea/modules/Tic-Tac-Toe/task/Tic-Tac-Toe.Tic-Tac-Toe-task.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/.idea/modules/Tic-Tac-Toe/task/Tic-Tac-Toe.Tic-Tac-Toe-task.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/.idea/modules/util/Tic-Tac-Toe.util.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/.idea/modules/util/Tic-Tac-Toe.util.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-Tac-Toe/.idea/modules/util/Tic-Tac-Toe.util.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TicTacToe.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TicTacToe/Cell.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TicTacToe/GameHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TicTacToe/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GameHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Triliza/Triliza.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TvChannels/TvChannels.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vehicles/Vehicles.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/untitled.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:\Program Files\JetBrains\IntelliJ IDEA 2019.3.1\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kjEyivXcau76rB9vGBZwrmSdH7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="TicTacToe" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6218965b-154d-4444-a0d7-b3e0bd65b0c2" name="Default Changelist" comment="" />
+      <created>1606205858422</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606205858422</updated>
+      <workItem from="1606205859514" duration="3240000" />
+      <workItem from="1606301799349" duration="6820000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="441" y="95" key="#Project_Structure" timestamp="1606205867330">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="441" y="95" key="#Project_Structure/0.0.1920.1040/3840.850.1920.1040@0.0.1920.1040" timestamp="1606205867330" />
+    <state x="766" y="221" key="#com.intellij.ide.util.MemberChooser" timestamp="1606304898569">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="766" y="221" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/3840.850.1920.1040@0.0.1920.1040" timestamp="1606304898569" />
+    <state x="691" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1606304490596">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="691" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/3840.850.1920.1040@0.0.1920.1040" timestamp="1606304490596" />
+    <state width="1878" height="348" key="GridCell.Tab.0.bottom" timestamp="1606316961527">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1878" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040/3840.850.1920.1040@0.0.1920.1040" timestamp="1606316961527" />
+    <state width="1878" height="348" key="GridCell.Tab.0.center" timestamp="1606316961527">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1878" height="348" key="GridCell.Tab.0.center/0.0.1920.1040/3840.850.1920.1040@0.0.1920.1040" timestamp="1606316961527" />
+    <state width="1878" height="348" key="GridCell.Tab.0.left" timestamp="1606316961527">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1878" height="348" key="GridCell.Tab.0.left/0.0.1920.1040/3840.850.1920.1040@0.0.1920.1040" timestamp="1606316961527" />
+    <state width="1878" height="348" key="GridCell.Tab.0.right" timestamp="1606316961527">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1878" height="348" key="GridCell.Tab.0.right/0.0.1920.1040/3840.850.1920.1040@0.0.1920.1040" timestamp="1606316961527" />
+    <state width="1878" height="348" key="GridCell.Tab.1.bottom" timestamp="1606316961527">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1878" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040/3840.850.1920.1040@0.0.1920.1040" timestamp="1606316961527" />
+    <state width="1878" height="348" key="GridCell.Tab.1.center" timestamp="1606316961527">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1878" height="348" key="GridCell.Tab.1.center/0.0.1920.1040/3840.850.1920.1040@0.0.1920.1040" timestamp="1606316961527" />
+    <state width="1878" height="348" key="GridCell.Tab.1.left" timestamp="1606316961527">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1878" height="348" key="GridCell.Tab.1.left/0.0.1920.1040/3840.850.1920.1040@0.0.1920.1040" timestamp="1606316961527" />
+    <state width="1878" height="348" key="GridCell.Tab.1.right" timestamp="1606316961527">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1878" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/3840.850.1920.1040@0.0.1920.1040" timestamp="1606316961527" />
+    <state x="754" y="268" key="refactoring.ChangeSignatureDialog" timestamp="1606315331289">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="754" y="268" key="refactoring.ChangeSignatureDialog/0.0.1920.1040/3840.850.1920.1040@0.0.1920.1040" timestamp="1606315331289" />
+  </component>
+</project>

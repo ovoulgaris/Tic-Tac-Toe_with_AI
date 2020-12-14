@@ -1,0 +1,6 @@
+cinema/Seat.java
+ cinema.Seat
+cinema/Cinema.java
+ cinema.Cinema
+cinema/ScreenRoom.java
+ cinema.ScreenRoom
